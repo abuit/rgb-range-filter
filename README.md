@@ -1,4 +1,4 @@
 # rgb-range-filter
 .NET core rgb range filter example
 
-Can filter certain rgb channels from an image.
+Can filter certain RGB gradients from an image.
